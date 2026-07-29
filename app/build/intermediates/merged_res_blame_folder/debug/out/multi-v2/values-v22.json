@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dompetku.app-mergeDebugResources-59:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/home/phantom/.gradle/caches/transforms-3/d667f79dd0d1fe950594a74ebfc83a66/transformed/appcompat-1.6.1/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

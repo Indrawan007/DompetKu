@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_bg_pin_dot_filled.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/bg_pin_dot_filled.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_acc_ewallet.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_acc_ewallet.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_bg_circle_expense.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/bg_circle_expense.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_transaction.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_transaction.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_bg_badge.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/bg_badge.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_report.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_report.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_fragment_transaction_detail.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_transaction_detail.xml"
+    },
+    {
+        "merged": "com.dompetku.app-merged_res-61:/color_nav_item_color.xml.flat",
+        "source": "com.dompetku.app-main-63:/color/nav_item_color.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_activity_setup_pin.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/activity_setup_pin.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_cat_investment.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_cat_investment.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_biometric.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_biometric.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_chevron_left.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_chevron_left.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_chevron_right.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/anim_cycle_7.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/anim/cycle_7.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_acc_cash.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_acc_cash.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_fragment_settings.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_item_transaction.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/item_transaction.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_fragment_set_budget.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_set_budget.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_bg_pin_dot_empty.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/bg_pin_dot_empty.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-xxhdpi_ic_launcher_foreground.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-xxhdpi/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_add.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_item_budget.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/item_budget.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_arrow_down_circle.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_arrow_down_circle.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_fragment_budget.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_budget.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_cat_bill.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_cat_bill.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_fragment_report.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_bg_dot.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/bg_dot.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_cat_freelance.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_cat_freelance.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_budget.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_budget.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_search.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_item_category_summary.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/item_category_summary.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_empty_wallet.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_empty_wallet.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_fragment_transaction_list.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_transaction_list.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_dashboard.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_warning.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_calendar.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_fragment_add_transaction.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_add_transaction.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_cat_other.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_cat_other.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_fragment_dashboard.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_cat_food.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_cat_food.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_cat_transport.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_cat_transport.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_delete.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_activity_main.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_bg_pin_dot_error.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/bg_pin_dot_error.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_cat_entertainment.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_cat_entertainment.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_edit.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_cat_health.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_cat_health.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/layout_activity_lock.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/activity_lock.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_cat_shopping.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_cat_shopping.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-xhdpi_ic_launcher_foreground.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-xhdpi/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_settings.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/anim_shake.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/anim/shake.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/navigation_nav_graph.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-hdpi_ic_launcher_foreground.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-hdpi/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_placeholder.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_placeholder.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_arrow_up_circle.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_arrow_up_circle.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_backspace.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_backspace.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_bg_circle_income.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/bg_circle_income.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_bg_progress_budget.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/bg_progress_budget.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_cat_gift.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_cat_gift.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_cat_salary.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_cat_salary.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_cat_education.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_cat_education.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-mdpi_ic_launcher_foreground.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-mdpi/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_bg_category_icon.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/bg_category_icon.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_bg_handle_bar.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/bg_handle_bar.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher_foreground.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-xxxhdpi/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/drawable_ic_acc_bank.xml.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/drawable/ic_acc_bank.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

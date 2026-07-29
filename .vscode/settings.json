@@ -1,0 +1,26 @@
+{
+  "java.jdt.ls.java.home": "/usr/lib/jvm/java-17-openjdk-amd64",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.import.gradle.enabled": true,
+  "java.import.gradle.wrapper.enabled": true,
+  "java.import.gradle.java.home": "/usr/lib/jvm/java-17-openjdk-amd64",
+
+  "files.watcherExclude": {
+    "**/.git/**": true,
+    "**/.gradle/**": true,
+    "**/build/**": true
+  },
+  "search.exclude": {
+    "**/.gradle": true,
+    "**/build": true
+  },
+
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {},
+
+  "kotlin.languageServer.enabled": false,
+
+  "[kotlin]": {
+    "editor.defaultFormatter": "fwcd.kotlin"
+  }
+}

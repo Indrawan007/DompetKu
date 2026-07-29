@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dompetku.app-mergeDebugResources-59:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/phantom/.gradle/caches/transforms-3/05a01429021ac4e07ec5be2783249b56/transformed/material-1.11.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

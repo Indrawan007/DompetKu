@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Kiri -->
+    <item
+        android:id="@+id/dashboardFragment"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Beranda" />
+
+    <item
+        android:id="@+id/transactionListFragment"
+        android:icon="@drawable/ic_transaction"
+        android:title="Transaksi" />
+
+    <!-- Spacer untuk FAB -->
+    <item
+        android:id="@+id/nav_spacer"
+        android:enabled="false"
+        android:icon="@android:color/transparent"
+        android:title="" />
+
+    <!-- Kanan -->
+    <item
+        android:id="@+id/budgetFragment"
+        android:icon="@drawable/ic_budget"
+        android:title="Anggaran" />
+
+    <item
+        android:id="@+id/reportFragment"
+        android:icon="@drawable/ic_report"
+        android:title="Laporan" />
+
+</menu>

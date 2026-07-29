@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.dompetku.app.presentation.dashboard.DashboardFragment"
+        android:label="Beranda"
+        tools:layout="@layout/fragment_dashboard">
+        <action
+            android:id="@+id/action_dashboard_to_transactionList"
+            app:destination="@id/transactionListFragment" />
+        <action
+            android:id="@+id/action_dashboard_to_settings"
+            app:destination="@id/settingsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/transactionListFragment"
+        android:name="com.dompetku.app.presentation.transaction.TransactionListFragment"
+        android:label="Transaksi"
+        tools:layout="@layout/fragment_transaction_list" />
+
+    <fragment
+        android:id="@+id/transactionDetailFragment"
+        android:name="com.dompetku.app.presentation.transaction.TransactionDetailFragment"
+        android:label="Detail Transaksi"
+        tools:layout="@layout/fragment_transaction_detail">
+        <argument
+            android:name="transactionId"
+            app:argType="long" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/budgetFragment"
+        android:name="com.dompetku.app.presentation.budget.BudgetFragment"
+        android:label="Anggaran"
+        tools:layout="@layout/fragment_budget" />
+
+    <fragment
+        android:id="@+id/reportFragment"
+        android:name="com.dompetku.app.presentation.report.ReportFragment"
+        android:label="Laporan"
+        tools:layout="@layout/fragment_report" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.dompetku.app.presentation.settings.SettingsFragment"
+        android:label="Pengaturan"
+        tools:layout="@layout/fragment_settings" />
+
+</navigation>

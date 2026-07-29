@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/item_transaction.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/item_transaction.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/fragment_budget.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_budget.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/fragment_set_budget.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_set_budget.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/activity_lock.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/activity_lock.xml"
+    },
+    {
+        "merged": "com.dompetku.app-mergeDebugResources-60:/layout/activity_main.xml",
+        "source": "com.dompetku.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/item_category_summary.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/item_category_summary.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/item_budget.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/item_budget.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/fragment_dashboard.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/fragment_add_transaction.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_add_transaction.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/fragment_report.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/fragment_settings.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/fragment_transaction_list.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_transaction_list.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/activity_setup_pin.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/activity_setup_pin.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/activity_main.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-mergeDebugResources-60:/layout/fragment_transaction_detail.xml",
+        "source": "/home/phantom/.gradle/daemon/8.4/com.dompetku.app-main-63:/layout/fragment_transaction_detail.xml"
+    }
+]

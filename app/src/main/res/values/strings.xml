@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DompetKu</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Beranda</string>
+    <string name="nav_transaction">Transaksi</string>
+    <string name="nav_budget">Anggaran</string>
+    <string name="nav_report">Laporan</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <!-- Dashboard -->
+    <string name="total_balance">Total Saldo</string>
+    <string name="income">Pemasukan</string>
+    <string name="expense">Pengeluaran</string>
+    <string name="recent_transactions">Transaksi Terbaru</string>
+    <string name="see_all">Lihat Semua</string>
+    <string name="budget_alert_title">⚠️ Peringatan Anggaran</string>
+
+    <!-- Transaction -->
+    <string name="add_transaction">Tambah Transaksi</string>
+    <string name="edit_transaction">Edit Transaksi</string>
+    <string name="delete_transaction">Hapus Transaksi</string>
+    <string name="amount">Jumlah</string>
+    <string name="category">Kategori</string>
+    <string name="account">Akun</string>
+    <string name="date">Tanggal</string>
+    <string name="note">Catatan</string>
+    <string name="note_optional">Catatan (opsional)</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="search_transaction">Cari transaksi…</string>
+
+    <!-- Transaction Type -->
+    <string name="type_income">Pemasukan</string>
+    <string name="type_expense">Pengeluaran</string>
+
+    <!-- Account Type -->
+    <string name="account_cash">Tunai</string>
+    <string name="account_bank">Bank</string>
+    <string name="account_ewallet">E-Wallet</string>
+
+    <!-- Budget -->
+    <string name="set_budget">Atur Anggaran</string>
+    <string name="budget_limit">Batas Anggaran</string>
+    <string name="budget_spent">Terpakai</string>
+    <string name="budget_remaining">Sisa</string>
+    <string name="budget_exceeded">Melebihi Anggaran!</string>
+
+    <!-- Report -->
+    <string name="monthly_report">Laporan Bulanan</string>
+    <string name="yearly_report">Laporan Tahunan</string>
+    <string name="custom_range">Rentang Kustom</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="export_excel">Export Excel</string>
+    <string name="net_balance">Saldo Bersih</string>
+
+    <!-- Settings -->
+    <string name="settings_security">Keamanan</string>
+    <string name="settings_pin_lock">Kunci PIN</string>
+    <string name="settings_biometric">Sidik Jari / Wajah</string>
+    <string name="settings_backup">Backup Data</string>
+    <string name="settings_restore">Restore Data</string>
+    <string name="settings_reminder">Pengingat Harian</string>
+    <string name="settings_theme">Tema Aplikasi</string>
+    <string name="settings_theme_light">Terang</string>
+    <string name="settings_theme_dark">Gelap</string>
+    <string name="settings_theme_system">Ikuti Sistem</string>
+    <string name="settings_reset">Reset Data</string>
+    <string name="settings_about">Tentang Aplikasi</string>
+    <string name="settings_version">Versi %s</string>
+
+    <!-- Lock Screen -->
+    <string name="enter_pin">Masukkan PIN</string>
+    <string name="create_pin">Buat PIN</string>
+    <string name="confirm_pin">Konfirmasi PIN</string>
+    <string name="wrong_pin">PIN salah!</string>
+    <string name="pin_not_match">PIN tidak cocok</string>
+    <string name="use_fingerprint">Gunakan sidik jari</string>
+    <string name="biometric_title">Autentikasi</string>
+    <string name="biometric_subtitle">Gunakan sidik jari untuk masuk</string>
+
+    <!-- Empty States -->
+    <string name="empty_transaction">Belum ada transaksi</string>
+    <string name="empty_transaction_desc">Tekan + untuk menambah transaksi pertama</string>
+    <string name="empty_budget">Belum ada anggaran</string>
+    <string name="empty_budget_desc">Atur anggaran bulanan untuk mengontrol pengeluaran</string>
+
+    <!-- Dialog -->
+    <string name="dialog_delete_title">Hapus Transaksi</string>
+    <string name="dialog_delete_message">Yakin ingin menghapus transaksi ini?</string>
+    <string name="dialog_reset_title">Reset Data</string>
+    <string name="dialog_reset_message">Semua data akan dihapus permanen. Lanjutkan?</string>
+
+    <!-- Toast/Snackbar -->
+    <string name="transaction_saved">Transaksi berhasil disimpan</string>
+    <string name="transaction_deleted">Transaksi dihapus</string>
+    <string name="budget_saved">Anggaran berhasil disimpan</string>
+    <string name="backup_success">Backup berhasil: %s</string>
+    <string name="restore_success">Data berhasil dipulihkan</string>
+    <string name="export_success">File berhasil disimpan: %s</string>
+    <string name="error_generic">Terjadi kesalahan</string>
+    <string name="error_amount_invalid">Jumlah tidak valid</string>
+    <string name="error_amount_zero">Jumlah harus lebih dari 0</string>
+    <string name="error_select_account">Pilih akun terlebih dahulu</string>
+    <string name="error_select_category">Pilih kategori</string>
+
+    <!-- Date -->
+    <string name="today">Hari ini</string>
+    <string name="yesterday">Kemarin</string>
+    <string name="days_ago">%d hari lalu</string>
+
+    <!-- Categories - Expense -->
+    <string name="cat_food">Makanan &amp; Minuman</string>
+    <string name="cat_transport">Transportasi</string>
+    <string name="cat_shopping">Belanja</string>
+    <string name="cat_bill">Tagihan &amp; Utilitas</string>
+    <string name="cat_entertainment">Hiburan</string>
+    <string name="cat_health">Kesehatan</string>
+    <string name="cat_education">Pendidikan</string>
+    <string name="cat_other">Lainnya</string>
+
+    <!-- Categories - Income -->
+    <string name="cat_salary">Gaji</string>
+    <string name="cat_freelance">Freelance</string>
+    <string name="cat_investment">Investasi</string>
+    <string name="cat_gift">Hadiah</string>
+</resources>

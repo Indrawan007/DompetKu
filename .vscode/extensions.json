@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-gradle",
+    "fwcd.kotlin",
+    "redhat.vscode-xml",
+    "PKief.material-icon-theme",
+    "usernamehw.errorlens"
+  ]
+}
